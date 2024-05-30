@@ -1,0 +1,11 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+numpy=1.26.3=py310h5f9d8c6_0
+numpy-base=1.26.3=py310hb5e798b_0
+pandas=2.2.0=pypi_0
+python=3.10.13=h955ad1f_0
+python-dateutil=2.8.2=pypi_0
+pytorch=2.2.0=py3.10_cuda12.1_cudnn8.9.2_0
+scikit-learn=1.4.1.post1=pypi_0
+scipy=1.11.4=py310h5f9d8c6_0
