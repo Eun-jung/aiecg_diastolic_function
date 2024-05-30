@@ -15,8 +15,7 @@ The model was trained as a multi-class model with four outputs representing the 
 
 ## Requirements for running 'main.py'
 * Development conda environments
-
-Please find requirements.txt.
+  * Please find requirements.txt.
 
 * Files
   * Numpy ECG file with a shape of (# of ECGs, 5000, 12, 1).
