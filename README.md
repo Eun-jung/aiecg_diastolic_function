@@ -15,12 +15,7 @@ The model was trained as a multi-class model with four outputs representing the 
 
 ## Requirements for running 'main.py'
 * Development conda environments
-  * pytorch 1.10.2
-  * pytorch-cuda 11.7
-  * numpy 1.19.2
-  * pandas 1.1.3
-  * scipy 1.5.2
-  * scikit-learn 0.23.2
+Please find requirements.txt.
 
 * Files
   * Numpy ECG file with a shape of (# of ECGs, 5000, 12, 1).
